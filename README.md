@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hafiza Maryam</h1>
 <h3 align="center">🛠️ Software Engineer | Building Cutting-Edge Solutions with a Unique Skill Set | Proficient in a Variety of Technologies</h3>
-<img align="right" alt="coding" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw09lMsaqEpJDd7Wt_yW_8SD&ust=1709366369715000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDewI7M0oQDFQAAAAAdAAAAABAE"/>
+<img align="right" alt="coding" src="https://img.freepik.com/premium-vector/girl-coding-designing-with-pc-illustration_418302-2383.jpg" width="30%"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamchudhary&label=Profile%20views&color=0e75b6&style=flat" alt="maryamchudhary" /> </p>
 
 - 🌱 I’m currently learning **BlockChain**
