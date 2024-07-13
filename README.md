@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **BlockChain**
 
-- 💬 Ask me about **React,Next,Typscript,Node,Graphql,SQL,MONGODB**
+- 💬 Ask me about **React,Next,Typscript,AngularNode,Graphql,SQL,MONGODB**
 
 - 📫 How to reach me **maryamchudhary12@gmail.com**
 
