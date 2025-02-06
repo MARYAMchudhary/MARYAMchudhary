@@ -18,8 +18,8 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+# 📊 GitHub Stats:
 
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MARYAMchudhary&hide_border=true&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
-</div>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MARYAMchudhary&theme=terafox&short_numbers=true&hide_border=false)<br/>
+
+
